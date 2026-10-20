@@ -1,0 +1,41 @@
+{
+  "item": {
+    "id": "979815595337",
+    "restype": "watchface",
+    "name": "Truck Tick",
+    "description": "这款表盘选用 Honk 彩色可变字体，汲取印度卡车手绘涂鸦热烈奔放的设计内核，以时分四位数字作为表盘唯一视觉主体。卡车涂鸦文字不拘束于工整排版，用夸张造型、分层色彩与立体阴影传递随性鲜活的街头气质，也是本次设计想要延续的精神。\n\n剥离刻度、指针等繁杂元素，将时间浓缩为时分四位数字，让阅读回归最直接的数字本身。依托 Honk 的 MORF 与 SHLN 可变轴，数字形态、阴影长度可随时间动态微调，原本固定的时间文字拥有缓慢流动的变化感。\n\n高饱和的矢量色彩自带手绘温度，跳出传统表盘冷静精致的范式。计时不再是枯燥的读数行为，腕间方寸如同一块微型移动涂鸦。在匆忙的日常里，它弱化时间带来的紧迫感，把看时间变成一场轻松有趣的视觉邂逅，让手表不止是计时工具，更是随身、充满松弛感的情绪载体。",
+    "preview": [
+      "media/poster-1-cover-2560x3840_结果_结果.png",
+      "media/poster-2-story-2560x3840_结果_结果.png",
+      "media/poster-3-aod-2560x3840_结果_结果.png"
+    ],
+    "icon": "media/preview-256.png",
+    "cover": "media/cover-truck-tick-3000x2000_结果_结果.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "支持我",
+      "url": "https://imwjh.com/support-me/zh",
+      "icon": "heart"
+    },
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
+      "icon": "airplane-tilt"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/16TruckTick.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
